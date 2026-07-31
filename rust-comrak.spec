@@ -4,8 +4,8 @@
 %global crate comrak
 
 Name:           rust-%{crate}
-Version:        0.7.0
-Release:        2%{?dist}
+Version:        0.54.0
+Release:        1%{?dist}
 Summary:        100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
 
 # Upstream license specification: BSD-2-Clause
